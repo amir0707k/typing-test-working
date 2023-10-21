@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amir0707k/typing-test-working/static/css/main.98ec47ca.css",
+    "main.js": "/amir0707k/typing-test-working/static/js/main.b382fb88.js",
+    "index.html": "/amir0707k/typing-test-working/index.html",
+    "main.98ec47ca.css.map": "/amir0707k/typing-test-working/static/css/main.98ec47ca.css.map",
+    "main.b382fb88.js.map": "/amir0707k/typing-test-working/static/js/main.b382fb88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.b382fb88.js"
+  ]
+}
